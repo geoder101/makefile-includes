@@ -1,0 +1,17 @@
+{
+  "name": "geoder101-makefile-includes",
+  "version": "0.1.0",
+  "description": "Makefile extensions",
+  "license": "MIT",
+  "repository": "geoder101/makefile-includes",
+  "author": {
+    "name": "George Dernikos",
+    "email": "geoder101@gmail.com",
+    "url": "https://github.com/geoder101"
+  },
+  "files": [
+    "help.mk"
+  ],
+  "dependencies": {},
+  "private": true
+}
